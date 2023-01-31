@@ -1,4 +1,3 @@
-# nodejs-auth-starter
 <h1 align="center">NodeJS Auth Starter Kit</h1>
 
 > Starter kit ini menyediakan api untuk crud user, authentication dan authorization menggunakan JWT serta MongoDB untuk menyimpan datanya
