@@ -11,7 +11,7 @@
 npm install
 ```
 
-3. Run Server (pastikan sudah terinstall nodemon secara global atau bisa install langsung)
+3. Run Server (pastikan sudah terinstall nodemon secara global atau bisa install dulu)
 
 ```sh
 npm install -g nodemon
